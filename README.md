@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ghale2004
-- 👀 I’m interested in learning and building
-- 🌱 I’m currently learning full-stack development
+- 👀  just learning and building
 
 
 <!---
